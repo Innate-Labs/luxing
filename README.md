@@ -55,24 +55,11 @@
 
 ## 🎬 产品截图
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img src="./screenshots/01-home.png" alt="一句话生成行程" />
-      <br/><sub><b>🪄 一句话生成行程</b></sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="./screenshots/02-itinerary.png" alt="多方案行程详情" />
-      <br/><sub><b>🗺️ 多方案行程详情</b></sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="./screenshots/03-voice-expense.png" alt="AI 语音记账" />
-      <br/><sub><b>🎤 AI 语音记账</b></sub>
-    </td>
-  </tr>
-</table>
-
-> 📸 截图占位中，正式上线后会替换为真实产品图。
+<div align="center">
+  <img src="./screenshots/home.png" alt="鲁行首页 — 你的 AI 旅行助手" width="100%" />
+  <br/>
+  <sub><b>🪄 一句话描述你的旅行想法，AI 自动生成完整行程规划</b></sub>
+</div>
 
 <br/>
 
