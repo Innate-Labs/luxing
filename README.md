@@ -56,7 +56,7 @@
 ## 🎬 产品截图
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="鲁行首页 — 你的 AI 旅行助手" width="100%" />
+  <img src="./screenshots/home.jpg" alt="鲁行首页 — 你的 AI 旅行助手" width="100%" />
   <br/>
   <sub><b>🪄 一句话描述你的旅行想法，AI 自动生成完整行程规划</b></sub>
 </div>
